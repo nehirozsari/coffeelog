@@ -4,7 +4,7 @@ Coffee Log is a modern Web application built with **React.js** that allows coffe
 
 The application is fully responsive and has been successfully deployed to production.
 
-🚀 **[Live Demo Link](https://nehir.github.io/CoffeeLog/)**
+🚀 **[Live Demo Link](https://nehirozsari.github.io/coffeelog/)**
 
 ---
 
